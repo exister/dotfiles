@@ -1,0 +1,19 @@
+"$schema" = 'https://starship.rs/config-schema.json'
+
+[aws]
+disabled = true
+
+
+[docker_context]
+disabled = true
+
+
+[directory]
+truncate_to_repo = false
+
+
+[nodejs]
+disabled = true
+
+[python]
+detect_folders = ['.venv']
